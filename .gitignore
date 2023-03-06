@@ -1,6 +1,10 @@
 .DS_Store
 /UnityProject/Builds/
 UnityProject/Library/
+WebViewVR_UnityProject/Builds
+WebViewVR_UnityProject/Library
+WebViewVR_UnityProject/obj
+WebViewVR_UnityProject/Temp
 Temp/
 .idea/
 AndroidViewToGLRendering-master/UnityLib/
